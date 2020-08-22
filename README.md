@@ -8,3 +8,7 @@ In this notebook we start with a language model trained on wikipedia. We then tr
 2. [Image captioning](https://github.com/dipam7/NLP/blob/master/Image_captioning/image_captioning.ipynb)
 
 In image captioning, we train a CNN to extract features from images, and then feed that to an RNN to generate text from the same.
+
+3. [Pubmed_RCT]()
+
+In this project we use pubmed rct data to perform text classification
